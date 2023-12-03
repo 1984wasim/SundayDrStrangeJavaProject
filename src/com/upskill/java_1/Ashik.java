@@ -12,10 +12,10 @@ public class Ashik {
 	}
 
 	public static void Buffalo (){ //Static doesn't need to create obj
-		int rent = 100;
+		int rent = 1000;
 		String addrees = "33 susan";
 		
-		System.out.println(addrees);
-		System.out.println(rent);
+		System.out.println("Address is: " +addrees);
+		System.out.println("Rent is: " +rent);
 	}
 }

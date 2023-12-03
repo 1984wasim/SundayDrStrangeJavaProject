@@ -4,7 +4,7 @@ public class MethodType {
 
 	/* Types of Methods
 	 * 1. Void Method - doesn't return any value and create object
-	 * 2.Static Method - doessn't create object
+	 * 2.Static Method - doesn't create object
 	 * 3. Return Type Method - must return value and create a object
 	 */
 		public static void main(String[] args) {
